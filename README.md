@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MCnima.
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Deep learning.
 - 💞️ I’m looking to collaborate on machine learning.
 - 📫 You can reach me at : instagram : https://www.instagram.com/mc_.yen/
                             telegram : https://t.me/Mc_yen or https://t.me/Mc_yen2
