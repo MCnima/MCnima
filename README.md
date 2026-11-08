@@ -1,6 +1,4 @@
-# Hi there, I'm Nima 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/NimaHabibi?style=social)](https://github.com/NimaHabibi)
+# I'm Nima 👋
 
 I'm a developer focused on **AI systems, local LLMs, systems engineering, and open-source tooling**. I enjoy exploring model optimization, backend architectures, and cloud/server infrastructure.
 
