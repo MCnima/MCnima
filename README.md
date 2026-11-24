@@ -44,4 +44,3 @@ I'm a developer focused on **AI systems, local LLMs, systems engineering, and op
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Nima Habibi](https://www.linkedin.com/in/nima-habibi-39905b44a/)
-- ✈️ **Telegram:** [@MC_YEN2](https://t.me/MC_YEN2)
